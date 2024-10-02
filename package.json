@@ -3,6 +3,7 @@
   "displayName": "Latex-Pandocs",
   "description": "A extension to export Latex documents to different formats",
   "version": "0.0.1",
+  "publisher": "MiguelDLM",
   "engines": {
     "vscode": "^1.93.0"
   },
